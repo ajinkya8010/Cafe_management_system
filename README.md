@@ -59,6 +59,9 @@ The models represent entities like **User**, **Product**, **Category**, and **Bi
 - MySQL database
 - NetBeans IDE (optional, any Java IDE works)
 
+## Screenshots
+- Navigate to screenshots directory
+
 ## Future Improvements
 - Adding a RESTful API layer for better integration with mobile or web applications.
 - Expanding product categories and order features for more detailed customization.
